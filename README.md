@@ -5,7 +5,7 @@ Follow the instructions that appear when installing DVSwitch or the instructions
 I am not responsible for DVSwitch and the programs contained in DVSwitch, and I am not responsible for the use of DVPi.
 Please use it only if you agree to this.
 
-Network transceiver for DV Switch (or DV Link)
+Network transceiver for DVSwitch (or DVLink)
 
 The source is not publicly available because dvpi can be used for commercial purposes.
 I plan to consider releasing the source after version 1.0
